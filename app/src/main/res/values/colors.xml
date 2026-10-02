@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bloom_field_blue">#4E7FAE</color>
+    <color name="bloom_deep_blue">#355E86</color>
+    <color name="bloom_press_blue">#3F6E9B</color>
+    <color name="bloom_sky_blue">#6A96C0</color>
+    <color name="bloom_mist">#B9CFE3</color>
+    <color name="bloom_petal">#F6F0E7</color>
+    <color name="bloom_bone">#EDE2D3</color>
+    <color name="bloom_linen">#DCCDB8</color>
+    <color name="bloom_pollen">#F0A41C</color>
+    <color name="bloom_amber">#D9861A</color>
+    <color name="bloom_stem">#8C7A3C</color>
+    <color name="bloom_ink">#1F3247</color>
+</resources>

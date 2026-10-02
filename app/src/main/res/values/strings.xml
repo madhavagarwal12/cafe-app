@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baba Café &amp; Restro</string>
+    <string name="cafe_hindi_name">बाबा Café &amp; Restro</string>
+    <string name="cafe_address">7A, Gopalpura Bypass Rd, Vasundhara Colony, Gopal Pura Mode, Jaipur, Rajasthan 302018</string>
+    <string name="cafe_hours">Open Daily · 5:00 AM – 12:00 AM</string>
+    <string name="cafe_phone">+91 98765 43210</string>
+    <string name="cafe_rating">5.0 / 5.0 (20+ Reviews)</string>
+    <string name="currency_symbol">₹</string>
+</resources>
